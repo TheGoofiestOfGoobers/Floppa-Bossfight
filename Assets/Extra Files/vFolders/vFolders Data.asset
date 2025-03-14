@@ -18,6 +18,7 @@ MonoBehaviour:
     - ec5096fdaf27df949821e7edf755c1e9
     - 0220aab0833d04faeb927d84ca6cc40c
     - 7e72748471ac3c640a5d01537907f44f
+    - b2de6924380dc7a4bb4d68c4b00ff37a
     values:
     - colorIndex: 0
       iconNameOrGuid: TextAsset Icon
@@ -27,3 +28,5 @@ MonoBehaviour:
       iconNameOrGuid: Settings Icon
     - colorIndex: 6
       iconNameOrGuid: AnimatorController Icon
+    - colorIndex: 3
+      iconNameOrGuid: 
