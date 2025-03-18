@@ -19,6 +19,7 @@ MonoBehaviour:
     - 0220aab0833d04faeb927d84ca6cc40c
     - 7e72748471ac3c640a5d01537907f44f
     - b2de6924380dc7a4bb4d68c4b00ff37a
+    - c99519eb1a652854ea4a2557a668b4ee
     values:
     - colorIndex: 0
       iconNameOrGuid: TextAsset Icon
@@ -29,4 +30,6 @@ MonoBehaviour:
     - colorIndex: 6
       iconNameOrGuid: AnimatorController Icon
     - colorIndex: 3
-      iconNameOrGuid: 
+      iconNameOrGuid: Prefab Icon
+    - colorIndex: 1
+      iconNameOrGuid: Texture Icon
