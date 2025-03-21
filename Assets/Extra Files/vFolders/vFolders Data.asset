@@ -20,6 +20,7 @@ MonoBehaviour:
     - 7e72748471ac3c640a5d01537907f44f
     - b2de6924380dc7a4bb4d68c4b00ff37a
     - c99519eb1a652854ea4a2557a668b4ee
+    - 9dd7196b379d45c42b53868cc0191998
     values:
     - colorIndex: 0
       iconNameOrGuid: TextAsset Icon
@@ -33,3 +34,5 @@ MonoBehaviour:
       iconNameOrGuid: Prefab Icon
     - colorIndex: 1
       iconNameOrGuid: Texture Icon
+    - colorIndex: 4
+      iconNameOrGuid: AudioSource Icon
