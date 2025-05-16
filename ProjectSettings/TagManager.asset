@@ -6,11 +6,12 @@ TagManager:
   tags:
   - Floppa
   - Bullet
+  - Wall
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Wall
   - Water
   - UI
   - Player
