@@ -185,7 +185,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Floppa Ear_0: 3138131993563653171
+      Floppa Ear_1: 2045513519518675039
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
